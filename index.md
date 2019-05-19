@@ -13,5 +13,5 @@ It's as good as chrome, but without adds or trackers enabled. As a bonus, you ar
 [Brave](https://brave.com/dll414)
 
 ---
-layout: default
+layout: home
 ---
