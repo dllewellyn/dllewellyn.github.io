@@ -16,13 +16,13 @@
 title: Daniel Llewellyn's page  
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  A Bootstrap 4 start up project for Jekyll and Github Pages
+  My updates
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-repository: "nicolas-van/bootstrap-4-github-pages"
+repository: "dllewellyn/dllewellyn.github.io"
 
 # Build settings
 plugins:
@@ -42,4 +42,5 @@ exclude:
   - update_boostrap.sh
 include:
   - .well-known
-theme: jekyll-theme-slate
+
+show_excerpts: true
