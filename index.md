@@ -1,6 +1,3 @@
-Welcome to my dllewellyn github pages. 
-
-
 
 ## Apps
 
@@ -14,3 +11,7 @@ The privacy policy for Live currency exchange
 It's as good as chrome, but without adds or trackers enabled. As a bonus, you are paid (in BAT) to use it! 
 
 [Brave](https://brave.com/dll414)
+
+---
+layout: default
+---
