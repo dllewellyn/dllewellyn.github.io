@@ -12,6 +12,9 @@ layout: home
 
 This is a simple rest API for getting a list of all available crypto currencies (over 3000) and getting their 'name' given their 'ID' (e.g. getting 'Bitcoin' by providing 'BTC')
 
+Swagger specc is available here
+
+[Swagger Specc](https://app.swaggerhub.com/apis/dllewellyn/crypto-api/1.0.0#)
 
  ## Use brave
 
