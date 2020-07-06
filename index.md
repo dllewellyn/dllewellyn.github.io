@@ -17,26 +17,31 @@ Get started learning flutter
 
 ### Apps
 
-Live crypto exchange is an app which makes use of the Coinbase kotlin API (see below)
+Fastest fingers is a simple quiz game
+
+[Fastest Fingers](https://play.google.com/store/apps/details?id=com.dllewellyn.fastestfingers)
+
+Work from home is an app written in flutter to help people needing to work from home
+
+[Work From Home)(https://play.google.com/store/apps/details?id=com.acap.workfromhome)
 
 
-[Live Crypto Exchange](https://play.google.com/store/apps/details?id=com.dllewellyn.crypto.compare&rdid=com.dllewellyn.crypto.compare)
+### Medium
 
-### Libraries
+Check out my latest medium posts
 
+Using Google's new authentication mechanism (OneTap) with a Micronaut backend:
 
-#### Coinbase API
+[OneTap and Micronaut](https://medium.com/@danieln.llewellyn/onetap-for-android-and-micronaut-9c824fcbe296)
 
+Securely storing data on Android
 
-The coinbase API allows you to connect to Coinbase using Kotlin. See readme for usage
+[Securely storing data on Android](https://medium.com/@danieln.llewellyn/writing-secure-android-applications-storing-data-aeca373fb454)
 
+Write a simple server driven UI in flutter
 
-[Github](https://github.com/dllewellyn/coinbaseAPI)
+[Server driven UI in Flutter](https://medium.com/@danieln.llewellyn/in-this-article-im-going-to-demonstrate-a-way-of-driving-the-ui-of-flutter-from-the-backend-43478b46e202)
 
+Test driven development in Flutter with BLoC
 
- #### Use brave
-
- It's as good as chrome, but without adds or trackers enabled. As a bonus, you are paid (in BAT) to use it! 
-
-
- [Brave](https://brave.com/dll414)
+[Flutter TDD in BLoC](https://medium.com/@danieln.llewellyn/test-driven-development-with-flutter-repository-bloc-938d87a4d205)
